@@ -12,7 +12,7 @@ Installation
 
 1. Clone the repository to your local machine using Git:
 
-   git clone https://github.com/Team-HEVC/CertiSure_Final.git
+   git clone https://github.com/omjaiswal45/CertiSure.git
 
 2. Navigate to the project directory:
 
@@ -41,7 +41,7 @@ Installation
 
 1. Clone the repository to your local machine using Git:
 
-   git clone https://github.com/Team-HEVC/CertiSure_Final.git
+   git clone https://github.com/omjaiswal45/CertiSure.git
 
 2. Navigate to the project directory:
 
